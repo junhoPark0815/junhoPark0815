@@ -3,4 +3,7 @@
 <h5 align = "center">컴퓨터 소프트 웨어과를 나왔지만 아직 배움이 필요해 배우는중이며</h5>
 <h5 align = "center">지금의 나보다 미래의 내가 코딩을 더 잘하게 되면 좋겠고.</h5>
 <h5 align = "center">배우고 있는 부분에서 많은 수확을 얻고 좋게좋게 되면 좋겠다고 생각합니다</h5>
-<img src="https://img.shields.io/badge/TypeScript-#3776AB?style=flat&logo=python&logoColor=white"/>
+<h5 align = "center">장단점 : 어느정도의 끈기가 있는 점은 장점이라 생각하며 정리가 되어있지 않거나 한 부분을 보면 불편해 하는점이 단점이라고 생각합니다.</h5> 
+<h5 align = "center">
+<h5 align = "center">이메일 : kom8877@naver.com(naver)<br> osan.smart.2022272001@gmail.com(gmail)
+<h5 align = "center">성격: MBTI로 하면 INFJ이며 I성향이지만 가끔 E성향이 튀어나오는 경우도 있음.
